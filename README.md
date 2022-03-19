@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marko
 #### I am Certified Web Developer
-![I am Certified Web Developer](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+![I am Certified Web Developer](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)
 
 I work as a web developer and web designer for the past year. I am currently learning foundamentals of web designing and backend development.
 
