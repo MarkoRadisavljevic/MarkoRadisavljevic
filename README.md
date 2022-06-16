@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Marko
-#### I am just a kid who id learning web development.
+#### I am 16 years old child who is learning web development.
 
 I work as a web developer and web designer for the past year. I am currently learning foundamentals of web designing and backend development.
 
-Skills: HTML5 / CSS3 / Python
+Skills: HTML5 / CSS3 / Python / JavaScript / C
 
-- 🔭 I’m currently working on PaketoLine 
+- 🔭 I’m currently working on perfecting my JavaScript skills 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about nothing
 - 📫 How to reach me: mare.care1402@gmail.com
