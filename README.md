@@ -3,11 +3,10 @@
 
 I work as a web developer and web designer for the past year. I am currently learning foundamentals of web designing and backend development.
 
-Skills: HTML5 / CSS3 / Python / JavaScript / C
+Skills: HTML5 / CSS3 / Python / JavaScript / C / C++ / Beginner React
 
-- 🔭 I’m currently working on perfecting my JavaScript skills 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about nothing
+- 🔭 I’m currently working on learning React and start building web app
+- 🌱 I’m currently learning React
 - 📫 How to reach me: mare.care1402@gmail.com
 
 
